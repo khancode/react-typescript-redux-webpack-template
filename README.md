@@ -14,3 +14,4 @@ npm start
 ## Resources
 - https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
 - https://webpack.js.org/
+- https://redux.js.org/recipes/usage-with-typescript
